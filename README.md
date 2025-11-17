@@ -4,7 +4,7 @@ Implementation of Algorithm 1 from the paper **"Near-Ramanujan graphs are all yo
 
 ## Overview
 
-This repository contains a Python implementation of the near-Ramanujan graph-based coupling map generator for quantum processors. The algorithm constructs optimal qubit connectivity topologies that maximize quantum circuit fidelity through superior spectral expansion properties.
+This repository contains a Python implementation of the near-Ramanujan graph-based coupling map generator for quantum processors. The algorithm constructs optimal qubit connectivity topologies that maximize quantum circuit fidelity through superior spectral expansion properties. The accompanying PDF document lists all key results with full proofs and details.
 
 ## Key Features
 
