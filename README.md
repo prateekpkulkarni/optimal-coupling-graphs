@@ -1,4 +1,3 @@
-# optimal-coupling-graphs
 # Near-Ramanujan Quantum Coupling Map Generator
 
 Implementation of Algorithm 1 from the paper **"Near-Ramanujan graphs are all you need to achieve the maximum quantum fidelity"**
