@@ -264,21 +264,6 @@ python ramanujan_coupling_map_generator.py -q 65 -d 4 -p superconducting  # IBM 
 - **Auxiliary Structures**: O(n)
 - **Total**: O(n²)
 
-### Scalability
-Tested configurations:
-- 5-100 qubits: < 0.1 seconds
-- 100-1000 qubits: < 5 seconds
-- 1000-5000 qubits: < 60 seconds
-
-## Validation
-
-The implementation has been validated against:
-
-1. **Paper Results**: Matches 20-qubit example topology
-2. **Spectral Properties**: Eigenvalues within Ramanujan bounds
-3. **Degree Distribution**: Exact d-regularity achieved
-4. **Performance Benchmarks**: Construction time matches theoretical complexity
-
 ## Complete Results
 
 For comprehensive theoretical results and analysis, please refer to the accompanying PDF document.
