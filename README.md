@@ -265,7 +265,7 @@ python ramanujan_coupling_map_generator.py -q 65 -d 4 -p superconducting  # IBM 
 
 ## Complete Results
 
-For comprehensive theoretical results and analysis, please refer to the accompanying PDF document.
+For comprehensive theoretical results and analysis, please refer to the accompanying PDF document ('supp_ramanujan_graphs.pdf').
 
 
 ## License
